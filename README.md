@@ -4,7 +4,7 @@
 
 ## About
 
-**`I’m a student learning Low-level Programming, Researching`
+**`I’m a student learning Low-level Programming, Researching`**
 
 ---
 
@@ -19,9 +19,6 @@
 
 ## More
 
-- Building strong fundamentals in programming
-- Learning system-level thinking
-- Practicing structured research-style understanding
-- Improving clarity in thinking and writing
+I like cool stuffs
 
 ---
