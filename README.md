@@ -12,8 +12,8 @@
 - Research thinking & structured writing
 - Case studies & analysis
 - Computer Science, Programming
-  
-`CS`, `Low-level`, `Research`, `Calisthenics`, `Intelligence`
+
+  `CS`, `Low-level`, `Research`, `Calisthenics`, `Intelligence`
 ---
 
 ## More
