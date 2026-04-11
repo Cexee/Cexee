@@ -1,9 +1,9 @@
 # Cexee
 ---
 
-## About
+## About me
 
-### **`I’m a student learning Low-level Programming, Researching`**
+### `I’m a student learning Low-level Programming, Researching`
 
 ---
 
@@ -12,6 +12,7 @@
 - Research thinking & structured writing
 - Case studies & analysis
 - Programming & problem solving
+  
 `Low-Level Prgramming`, `C`,  `Research`
 ---
 
