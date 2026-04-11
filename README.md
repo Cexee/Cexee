@@ -3,7 +3,7 @@
 
 ## About me
 
-### `I’m a student learning Low-level Programming, Researching`
+### `Hello, I’m a student learning Low-level Programming, Researching`
 
 ---
 
@@ -11,9 +11,7 @@
 
 - Research thinking & structured writing
 - Case studies & analysis
-- Programming & problem solving
-  
-**`Low-Level Programming`**,  **`C`**,  **`Research`**
+
 ---
 
 ## More
