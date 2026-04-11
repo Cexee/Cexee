@@ -3,7 +3,7 @@
 
 ## About me
 
-`Hello!, I’m just a student, Trying to do something idk.`
+### `I’m just a student, Trying to do something idk.`
 
 ---
 
