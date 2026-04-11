@@ -13,7 +13,7 @@
 - Case studies & analysis
 - Programming & problem solving
   
-`Low-Level Prgramming`, `C`,  `Research`
+**`Low-Level Programming`**,  **`C`**,  **`Research`**
 ---
 
 ## More
