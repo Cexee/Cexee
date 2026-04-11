@@ -1,14 +1,12 @@
 # Cexee
 
-Student | Learner | Builder
+Student | Friend
 
 ---
 
 ## About
 
 I’m a student exploring how things actually work — from low-level programming to systems, logic, and real-world thinking.
-
-I learn by building, breaking, and understanding. Not just memorizing.
 
 ---
 
@@ -29,20 +27,5 @@ I learn by building, breaking, and understanding. Not just memorizing.
 - Learning system-level thinking
 - Practicing structured research-style understanding
 - Improving clarity in thinking and writing
-
-
----
-
-## Links
-
-- Discord: [add here]
-- Email: [add here]
-
----
-
-## Note
-
-This profile is part of my learning journey.  
-Everything here evolves as I grow, learn, and build more.
 
 ---
