@@ -1,12 +1,10 @@
 # Cexee
 
-Student | Friend
-
 ---
 
 ## About
 
-I’m a student exploring how things actually work — from low-level programming to systems, logic, and real-world thinking.
+I’m a student learning Low-level Programming, Researching
 
 ---
 
