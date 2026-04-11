@@ -3,7 +3,7 @@
 
 ## About
 
-## **`I’m a student learning Low-level Programming, Researching`**
+### **`I’m a student learning Low-level Programming, Researching`**
 
 ---
 
